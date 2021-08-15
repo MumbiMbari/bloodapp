@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "267877044328",
+    "project_id": "cs-project-a20d4",
+    "storage_bucket": "cs-project-a20d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267877044328:android:07f7df0b4be24e194cabdd",
+        "android_client_info": {
+          "package_name": "net.smallacademy.authenticatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267877044328-tavsbhae4s87fgjrrj2g0j491so50ddl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUIVdW7GTW05d60Ig8SjXguUcI9VbR2dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267877044328-tavsbhae4s87fgjrrj2g0j491so50ddl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

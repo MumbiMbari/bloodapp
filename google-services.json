@@ -1,0 +1,280 @@
+{
+  "project_info": {
+    "project_number": "267877044328",
+    "firebase_url": "https://cs-project-a20d4-default-rtdb.firebaseio.com",
+    "project_id": "cs-project-a20d4",
+    "storage_bucket": "cs-project-a20d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267877044328:android:73fa16067a17830e4cabdd",
+        "android_client_info": {
+          "package_name": "com.android.iunoob.bloodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267877044328-tavsbhae4s87fgjrrj2g0j491so50ddl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUIVdW7GTW05d60Ig8SjXguUcI9VbR2dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267877044328-tavsbhae4s87fgjrrj2g0j491so50ddl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267877044328:android:66899d13b65614044cabdd",
+        "android_client_info": {
+          "package_name": "com.example.amarjeet.hola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267877044328-tavsbhae4s87fgjrrj2g0j491so50ddl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUIVdW7GTW05d60Ig8SjXguUcI9VbR2dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267877044328-tavsbhae4s87fgjrrj2g0j491so50ddl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267877044328:android:d0cab71f0bcbedcb4cabdd",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationkk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267877044328-tavsbhae4s87fgjrrj2g0j491so50ddl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUIVdW7GTW05d60Ig8SjXguUcI9VbR2dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267877044328-tavsbhae4s87fgjrrj2g0j491so50ddl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267877044328:android:d174eff5af1e32da4cabdd",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267877044328-rd6smc99da81naflo6858cacieptoe44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project",
+            "certificate_hash": "601d53dd90f08fceafc4547d8da324af82972681"
+          }
+        },
+        {
+          "client_id": "267877044328-tavsbhae4s87fgjrrj2g0j491so50ddl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUIVdW7GTW05d60Ig8SjXguUcI9VbR2dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267877044328-tavsbhae4s87fgjrrj2g0j491so50ddl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267877044328:android:b7ac7726bb47f84d4cabdd",
+        "android_client_info": {
+          "package_name": "com.jama.kenyablooddonationsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267877044328-tavsbhae4s87fgjrrj2g0j491so50ddl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUIVdW7GTW05d60Ig8SjXguUcI9VbR2dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267877044328-tavsbhae4s87fgjrrj2g0j491so50ddl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267877044328:android:c05e2c170ab0ff324cabdd",
+        "android_client_info": {
+          "package_name": "com.veda.app.blooddonation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267877044328-tavsbhae4s87fgjrrj2g0j491so50ddl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUIVdW7GTW05d60Ig8SjXguUcI9VbR2dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267877044328-tavsbhae4s87fgjrrj2g0j491so50ddl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267877044328:android:d09516171c8167114cabdd",
+        "android_client_info": {
+          "package_name": "com.vinayak09.bloodbankbyvinayak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267877044328-tavsbhae4s87fgjrrj2g0j491so50ddl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUIVdW7GTW05d60Ig8SjXguUcI9VbR2dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267877044328-tavsbhae4s87fgjrrj2g0j491so50ddl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267877044328:android:efcbad123bc784534cabdd",
+        "android_client_info": {
+          "package_name": "com.willteksoftwares.bda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267877044328-tavsbhae4s87fgjrrj2g0j491so50ddl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUIVdW7GTW05d60Ig8SjXguUcI9VbR2dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267877044328-tavsbhae4s87fgjrrj2g0j491so50ddl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267877044328:android:07f7df0b4be24e194cabdd",
+        "android_client_info": {
+          "package_name": "net.smallacademy.authenticatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267877044328-tavsbhae4s87fgjrrj2g0j491so50ddl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUIVdW7GTW05d60Ig8SjXguUcI9VbR2dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267877044328-tavsbhae4s87fgjrrj2g0j491so50ddl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
